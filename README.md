@@ -24,13 +24,12 @@ This dashboard was designed to address the client’s core business questions:
 
 | Metric                      | Value               |
 |----------------------------|---------------------|
-| **Total Profit**           | $28.18M             |
-| **Profit Margin**          | 40.6%               |
-| **Top 5 Products**         | 43.9% of total profit |
-| **Sales on Weekdays**      | 71.9%               |
-| **Profit from 50+ Customers** | 39.9%            |
-| **Australia & USA Profit Share** | 65.8%       |
-| **Most Profitable Product Color** | Red          |
+| **Total Profit**           | $126.29M             |
+| **Profit Margin**          | 41.1%               |
+| **Top 5 Products**         | 24.8% of total profit |
+| **Sales on Weekdays**      | 72%               |
+| **Australia & USA Profit Share** | 62.7%       |
+| **Most Profitable Product Color** | Black          |
 
 ---
 
