@@ -1,12 +1,7 @@
-# AdventureWorks_Excel_Project
 # 📊 AdventureWorks Sales Analysis – Excel Dashboard
-
-This project is based on the **"Microsoft Excel Dashboard Masterclass - Don't Miss It (Part-1)"** by **Data With Decisions** on YouTube.  
-🔗 [Watch the tutorial](https://www.youtube.com/watch?v=VxOOt2dP8Jw&list=PLwIcJx1aSL1Qx739cQXD8R70bzVIBX6gZ)
-
 ---
 
-## 📝 Client Requirement
+## 📝 Fictional Client's Requirement
 
 > “I have four years of transactional data that I would like to analyze.  
 > My goal is to create visual representations of the data to assess our performance over these years.  
@@ -39,16 +34,6 @@ This dashboard was designed to address the client’s core business questions:
 
 ---
 
-## 📸 Dashboard Snapshots
-
-### ⏱️ Time-Based Profit Analysis
-![Time Analysis](./Screenshot%202025-04-23%20031552.png)
-
-### 🧠 Consumer & Product Insights
-![Detailed Dashboard](./Screenshot%202025-04-23%20031604.png)
-
----
-
 ## 🧰 Tools & Techniques Used
 
 - **Microsoft Excel**  
@@ -62,16 +47,18 @@ This dashboard was designed to address the client’s core business questions:
 
 ## 💡 What I Learned
 
-This was my **first end-to-end Excel dashboard** project, and it taught me how to:
+This project it taught me how to:
 - Translate business goals into actionable insights
 - Build structured dashboards that drive decision-making
 - Use Excel's full potential for data storytelling
 
 ---
+This project is based on the **"Microsoft Excel Dashboard Masterclass "** by **Data With Decisions** on YouTube.  
+🔗 [Watch the tutorial](https://www.youtube.com/watch?v=VxOOt2dP8Jw&list=PLwIcJx1aSL1Qx739cQXD8R70bzVIBX6gZ)
 
+---
 ## 📬 Contact
 
-📧 **Khushi Vishwakarma**  
 🔗 [LinkedIn](https://www.linkedin.com/in/khushi-vishwakarma-040239258/)  
 📮 khushivishwakarma9199@gmail.com  
 
