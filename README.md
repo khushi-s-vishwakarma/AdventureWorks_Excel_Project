@@ -37,7 +37,8 @@ This dashboard was designed to address the client’s core business questions:
 
 - **Microsoft Excel**  
   - Pivot Tables  
-  - Pivot Charts  
+  - Pivot Charts
+  - VLOOKUP,HLOOKUP  
   - Slicers  
   - Conditional Formatting  
   - Excel Formulas (e.g., `SUMIFS`, `COUNTIFS`, `IF`, etc.)
